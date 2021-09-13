@@ -1,0 +1,27 @@
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\Newtonsoft.Json.dll
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\bin\Debug\Newtonsoft.Json.xml
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+c:\users\shiv\documents\visual studio 2017\Projects\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\DocumentDB.Spatial.Sql.dll
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\Microsoft.Azure.Documents.Client.xml
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.AssemblyReference.cache
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Atos\Downloads\AzureLab5\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
